@@ -1,11 +1,12 @@
 # Global-Store-Data-Analysis-SQL-EXCEL-Dashboard-Tableau
 SQL-based interactive dashboard built using Excel and Tableau to Analyze Global store sales and product over the world
-###Problem:
+### Problem:
 Management asked How to increase profitability?
 ## Hypothesis:
 One way to Increase profits is to reduce losses by reducing and analyzing "Dead Stocks" products, we found through analysis that tables product has 65,000$ losses
 After analysis, we found that tables have the highest discounts (85% discount with order ID "IT-2012-5588535") while the average of discount around 11% , one of reasons that tables have
-low demand is having the Highest shipping cost average "25$" while chairs having the 2nd Highest shipping cost average half tables shipping cost (13$)
+low demand is having the Highest shipping cost average "25$" while chairs having the 2nd Highest shipping cost average half tables shipping cost (13$).
+
 **Recommend solutions:** replacing tables with Easy to disassemble and install ones (same to IKEA model) for easier and smaller packaging which will reduce shipping costs and increase tables sellability
 Further and deeper shipping data analysis is required.
 
