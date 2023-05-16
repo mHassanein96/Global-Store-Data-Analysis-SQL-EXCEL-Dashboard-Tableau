@@ -1,11 +1,19 @@
 # Global-Store-Data-Analysis-SQL-EXCEL-Dashboard-Tableau
-SQL-based interactive dashboard built using Excel and Tableau
+SQL-based interactive dashboard built using Excel and Tableau to Analyze Global store sales and product over the world
+###Problem:
+Management asked How to increase profitability?
+## Hypothesis:
+One way to Increase profits is to reduce losses by reducing and analyzing "Dead Stocks" products, we found through analysis that tables product has 65,000$ losses
+After analysis, we found that tables have the highest discounts (85% discount with order ID "IT-2012-5588535") while the average of discount around 11% , one of reasons that tables have
+low demand is having the Highest shipping cost average "25$" while chairs having the 2nd Highest shipping cost average half tables shipping cost (13$)
+**Recommend solutions:** replacing tables with Easy to disassemble and install ones (same to IKEA model) for easier and smaller packaging which will reduce shipping costs and increase tables sellability
+Further and deeper shipping data analysis is required.
 
-### Database, Database Tool and Visualization Tool
-+ SQL Server
-+ MS Power Query
-+ Excel (Analysis/ Visualization)
-+ Tableau Public (Visualization)
+### Built With:
++ **SQL Server**
++ **Power Query** - ETL tool created by Microsoft for data extraction, loading and transformation, and is used to retrieve data from sources, process it, and load them into one or more target systems.
++ **Excel** (Analysis/ Visualization)
++ **Tableau Public** (Visualization)
 
 ![DashboardGS](https://github.com/mHassanein96/Global-Store-Data-Analysis-SQL-EXCEL-Dashboard-Tableau/assets/133708970/19d7ebba-8216-49e9-a08e-70d64f8a3d4d)
 
